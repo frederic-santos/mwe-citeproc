@@ -2,7 +2,6 @@
 #+AUTHOR: Frédéric Santos
 #+DATE:
 #+STARTUP: showall
-#+PROPERTY: header-args :tangle yes
 #+BIBLIOGRAPHY: biblio.bib
 #+CITE_EXPORT: csl apa.csl
 #+LANGUAGE: fr
