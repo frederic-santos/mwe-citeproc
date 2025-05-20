@@ -1,0 +1,19 @@
+#+TITLE:
+#+AUTHOR: Frédéric Santos
+#+DATE:
+#+STARTUP: showall
+#+PROPERTY: header-args :tangle yes
+#+BIBLIOGRAPHY: biblio.bib
+#+CITE_EXPORT: csl apa.csl
+#+LANGUAGE: fr
+
+* Introduction
+According to [cite/t:@abboud2020_RobustTangentPCA]...
+
+Another ref [cite:@abbott2015_UnderstandingAnalysis].
+
+* References
+  :PROPERTIES:
+  :UNNUMBERED: t
+  :END:
+#+print_bibliography:
